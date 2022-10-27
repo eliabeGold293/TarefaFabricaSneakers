@@ -1,0 +1,23 @@
+font-size: 1rem; --> tamanho da fonte
+font-size: 20px; --> tamanho da fonte
+font-weight: px ou rem; ---> grossura da fonte
+justify-content: space-between; da uma espaçamento de uma ponta a outra.
+display-flex:rem ou px; ---> ele deixa os itens em uma mesma linha e deixa os itens juntos
+
+disabled --> faz com que o usuário não consiga clicar com o mouse na caixa de texto.
+
+
+OBS: criando uma div com nome altomaticamente:
+
+     div."nome que vc quer dar" e dar enter.
+
+<span/>: cria uma caixa ao redor do item ou texto. Ex: <span>50%</span>
+
+</button>: cria um botao no html
+
+flex-direction: colun ; --> usado caso vc de um display flex e vc ainda queira posicionar o item na parte de baixo.
+
+border:0; --> pode ser usado para retirar a borda de uma caixa
+
+||||||||||||javascript|||||||||||||
+

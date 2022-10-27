@@ -1,0 +1,226 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-xxl{
+
+    display: flex;
+    align-items: center;
+}
+
+
+.header{
+
+    display: flex;
+
+    gap: 5.0rem;
+ 
+    padding-left: 60px;
+
+    padding-top: 15px;
+
+    align-items: center;
+}
+
+.header p{
+
+    padding-top: 10px;
+    color: rgb(236, 157, 9);
+
+    cursor: pointer;
+}
+
+#zap{
+
+    width: 45px;
+    height: 45px;
+
+    border-radius: 12px;
+
+    margin-left: 20%;
+    margin-right:20px;
+
+    cursor: pointer;
+}
+
+#pessoa{
+
+    width: 45px;
+    height: 45px;
+
+    border-radius: 60px;
+
+    cursor: pointer;
+
+}
+
+#sapato{
+
+    width: 370px;
+    height: 370px;
+    border-radius: 12px;
+    border: solid;
+    border-width: 1px;
+    
+}
+
+.container{
+
+   
+    margin-top: 20px;
+
+    margin-left: 8%;
+
+    
+}
+
+.caixacomprar{
+
+    width: 370px;
+    height: 370px;
+
+    margin-top: 20px;
+
+    margin-right: 375px;
+
+    margin-left: 50px;
+   
+}
+
+.caixacomprar h6{
+
+    color: rgb(241, 161, 12);
+
+    font-family: sans-serif;
+}
+
+#desconto{
+
+    width: 50px;
+    height: 50px;
+}
+
+.precoiimg{
+
+    display: flex;
+    align-items: center;
+
+    gap: 1.0rem;
+}
+
+.precoiimg img{
+
+    margin-bottom:15px ;
+
+}
+
+.precoiimg p{
+
+    font-size: 30px;
+}
+
+#precorte{
+
+    color: rgb(188, 190, 190);
+
+    margin-bottom: 0px;
+}
+
+#carrinho{
+
+    width: 50px;
+    height: 50px;
+
+    margin-left: 100px;
+
+    border-radius: 15px;
+    border: solid;
+    border-width: 2px;
+
+    cursor: pointer;
+}
+
+.imagensp{
+
+    display: flex;
+
+    gap: 1.9rem;
+
+    margin-top: 15px;
+
+    margin-left: 8%;
+}
+
+.imagensp img{
+
+    width: 16%;
+    height: 16%;
+    border-radius: 12px;
+    border: solid;
+    border-width: 1px;
+
+
+    cursor: pointer;
+}
+
+.divs{
+
+    display: flex;
+
+    text-align: center;
+
+    margin-top: 2px;
+}
+
+#menos{
+
+    width: 50px;
+    height: 20px;
+
+    background-color: rgb(194, 197, 197);
+
+    border: solid;
+    border-width: 1px;
+
+    cursor: pointer;
+}
+
+#zero{
+
+    width: 50px;
+    height: 20px;
+
+    background-color: rgb(194, 197, 197);
+
+    border: solid;
+    border-width: 1px;
+
+    text-align: center;
+
+}
+
+
+#mais{
+
+    width: 50px;
+    height: 20px;
+
+    background-color: rgb(194, 197, 197);
+
+    border: solid;
+    border-width: 1px;
+
+    cursor: pointer;
+
+}
+
+
+#megacontainer{
+
+    display: flex;
+
+    align-items: center;
+}
